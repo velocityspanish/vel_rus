@@ -15809,7 +15809,37 @@
       "russian": "Руки тихо, голова готова",
       "category": "Balance",
       "generated_at": "2026-08-10T22:26:41.793623"
+    },
+    {
+      "english": "Say it wrong, learn loudly",
+      "russian": "Скажи иначе, учись смело",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T03:05:18.822710"
+    },
+    {
+      "english": "Confidence comes from speaking",
+      "russian": "Смелость рождается, в разговоре",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T03:05:18.822719"
+    },
+    {
+      "english": "Stop translating, start sensing",
+      "russian": "Меньше переводи, больше чувству­й",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T03:05:18.822721"
+    },
+    {
+      "english": "Mistakes sharpen your accent",
+      "russian": "Ошибки, точат твой акцент",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T03:05:18.822722"
+    },
+    {
+      "english": "Write, then read out loud",
+      "russian": "Пиши, потом говори вслух",
+      "category": "Motivation",
+      "generated_at": "2026-08-11T03:05:18.822723"
     }
   ],
-  "last_updated": "2026-08-10T22:26:41.793625"
+  "last_updated": "2026-08-11T03:05:18.822725"
 }
