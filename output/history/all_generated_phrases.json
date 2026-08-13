@@ -16199,7 +16199,37 @@
       "russian": "Прощение — сила, не молчание",
       "category": "Forgiveness",
       "generated_at": "2026-08-13T17:01:17.520043"
+    },
+    {
+      "english": "Breathe first, then respond.",
+      "russian": "Сначала вдохни, потом ответь.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T19:57:58.355675"
+    },
+    {
+      "english": "I’ll wait, you’re learning.",
+      "russian": "Я подожду, ты учишься.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T19:57:58.355685"
+    },
+    {
+      "english": "Pause, let your mind reset.",
+      "russian": "Остановись, дай голове перезагрузиться.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T19:57:58.355686"
+    },
+    {
+      "english": "Don’t rush it, gently.",
+      "russian": "Не спеши, мягко веди.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T19:57:58.355688"
+    },
+    {
+      "english": "Kindness helps, even silently.",
+      "russian": "Доброта помогает, даже молча.",
+      "category": "Patience",
+      "generated_at": "2026-08-13T19:57:58.355689"
     }
   ],
-  "last_updated": "2026-08-13T17:01:17.520045"
+  "last_updated": "2026-08-13T19:57:58.355691"
 }
