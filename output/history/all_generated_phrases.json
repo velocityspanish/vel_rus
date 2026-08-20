@@ -17129,7 +17129,37 @@
       "russian": "Скажи «да», радости",
       "category": "Joy",
       "generated_at": "2026-08-20T02:17:11.087192"
+    },
+    {
+      "english": "When doubts rise, speak kindly",
+      "russian": "Когда сомнения растут, говори мягко",
+      "category": "Purpose",
+      "generated_at": "2026-08-20T13:49:58.451104"
+    },
+    {
+      "english": "Say it, then let it go",
+      "russian": "Скажи, потом отпусти",
+      "category": "Purpose",
+      "generated_at": "2026-08-20T13:49:58.451113"
+    },
+    {
+      "english": "Write the real reason, softly",
+      "russian": "Запиши правду, очень тихо",
+      "category": "Purpose",
+      "generated_at": "2026-08-20T13:49:58.451115"
+    },
+    {
+      "english": "Learn slowly, but consistently",
+      "russian": "Учись бережно, но регулярно",
+      "category": "Purpose",
+      "generated_at": "2026-08-20T13:49:58.451116"
+    },
+    {
+      "english": "Ask, then breathe before replying",
+      "russian": "Спроси, потом вдохни перед ответом",
+      "category": "Purpose",
+      "generated_at": "2026-08-20T13:49:58.451117"
     }
   ],
-  "last_updated": "2026-08-20T02:17:11.087193"
+  "last_updated": "2026-08-20T13:49:58.451119"
 }
