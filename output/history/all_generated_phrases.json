@@ -18449,7 +18449,37 @@
       "russian": "Тревога уйдёт, ты держись",
       "category": "Balance",
       "generated_at": "2026-08-29T03:25:28.907743"
+    },
+    {
+      "english": "Stay close to your purpose, breathe",
+      "russian": "Держись цели, дыши спокойно",
+      "category": "Perseverance",
+      "generated_at": "2026-08-29T07:42:07.472260"
+    },
+    {
+      "english": "Make mistakes, then learn softly",
+      "russian": "Ошибайся, потом учись бережно",
+      "category": "Perseverance",
+      "generated_at": "2026-08-29T07:42:07.472270"
+    },
+    {
+      "english": "When it hurts, continue anyway",
+      "russian": "Больно, но делай дальше",
+      "category": "Perseverance",
+      "generated_at": "2026-08-29T07:42:07.472272"
+    },
+    {
+      "english": "Put effort first, comfort later",
+      "russian": "Сначала усилие, потом уют",
+      "category": "Perseverance",
+      "generated_at": "2026-08-29T07:42:07.472273"
+    },
+    {
+      "english": "Keep your rhythm, don’t rush",
+      "russian": "Держи ритм, не спеши",
+      "category": "Perseverance",
+      "generated_at": "2026-08-29T07:42:07.472274"
     }
   ],
-  "last_updated": "2026-08-29T03:25:28.907746"
+  "last_updated": "2026-08-29T07:42:07.472275"
 }
