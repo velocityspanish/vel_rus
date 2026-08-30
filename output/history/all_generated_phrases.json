@@ -18659,7 +18659,37 @@
       "russian": "Грамматика сбоит, практика вернётся",
       "category": "Patience",
       "generated_at": "2026-08-30T17:15:46.506479"
+    },
+    {
+      "english": "Tide returns, I keep rowing",
+      "russian": "Прилив уйдёт, я гребу дальше",
+      "category": "Perseverance",
+      "generated_at": "2026-08-30T19:13:51.420472"
+    },
+    {
+      "english": "Storm passes, I sow seeds",
+      "russian": "Гроза уйдёт, я сею семена",
+      "category": "Perseverance",
+      "generated_at": "2026-08-30T19:13:51.420482"
+    },
+    {
+      "english": "Waves shake, I stay on course",
+      "russian": "Волны качают, я держу курс",
+      "category": "Perseverance",
+      "generated_at": "2026-08-30T19:13:51.420484"
+    },
+    {
+      "english": "Winter bites, I build fire",
+      "russian": "Зима кусает, я разжигаю огонь",
+      "category": "Perseverance",
+      "generated_at": "2026-08-30T19:13:51.420485"
+    },
+    {
+      "english": "River flows, I keep walking",
+      "russian": "Река течёт, я продолжаю идти",
+      "category": "Perseverance",
+      "generated_at": "2026-08-30T19:13:51.420486"
     }
   ],
-  "last_updated": "2026-08-30T17:15:46.506481"
+  "last_updated": "2026-08-30T19:13:51.420488"
 }
