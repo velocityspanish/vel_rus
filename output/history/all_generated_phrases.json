@@ -18809,7 +18809,37 @@
       "russian": "Солнце встаёт, ты идёшь",
       "category": "Strength",
       "generated_at": "2026-08-31T19:27:00.187604"
+    },
+    {
+      "english": "Balance breath, soften your gaze",
+      "russian": "Балансируй дыхание, смягчи взгляд",
+      "category": "Balance",
+      "generated_at": "2026-08-31T21:24:04.563137"
+    },
+    {
+      "english": "Let stillness meet your effort",
+      "russian": "Пусть тишина встретит усилие",
+      "category": "Balance",
+      "generated_at": "2026-08-31T21:24:04.563148"
+    },
+    {
+      "english": "Hold both sides, release pressure",
+      "russian": "Держи оба, отпусти давление",
+      "category": "Balance",
+      "generated_at": "2026-08-31T21:24:04.563150"
+    },
+    {
+      "english": "Trade haste for quiet clarity",
+      "russian": "Меняй спешку на тихую ясность",
+      "category": "Balance",
+      "generated_at": "2026-08-31T21:24:04.563151"
+    },
+    {
+      "english": "Turn inward, steady the heart",
+      "russian": "Повернись внутрь, выровняй сердце",
+      "category": "Balance",
+      "generated_at": "2026-08-31T21:24:04.563152"
     }
   ],
-  "last_updated": "2026-08-31T19:27:00.187606"
+  "last_updated": "2026-08-31T21:24:04.563153"
 }
