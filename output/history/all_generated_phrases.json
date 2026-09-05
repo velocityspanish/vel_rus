@@ -19589,7 +19589,37 @@
       "russian": "Проверь смысл, удержи баланс",
       "category": "Balance",
       "generated_at": "2026-09-05T18:02:30.788056"
+    },
+    {
+      "english": "Smile first, then move.",
+      "russian": "Улыбнись, потом действуй.",
+      "category": "Joy",
+      "generated_at": "2026-09-05T21:03:15.869041"
+    },
+    {
+      "english": "Joy lives in small pauses.",
+      "russian": "Радость прячется в паузах.",
+      "category": "Joy",
+      "generated_at": "2026-09-05T21:03:15.869051"
+    },
+    {
+      "english": "Say yes, to what’s light.",
+      "russian": "Скажи да, тому что легко.",
+      "category": "Joy",
+      "generated_at": "2026-09-05T21:03:15.869052"
+    },
+    {
+      "english": "Make room, for good feelings.",
+      "russian": "Освободи место, для тепла.",
+      "category": "Joy",
+      "generated_at": "2026-09-05T21:03:15.869054"
+    },
+    {
+      "english": "Laugh softly, you’ll feel lighter.",
+      "russian": "Смейся тихо, станет легче.",
+      "category": "Joy",
+      "generated_at": "2026-09-05T21:03:15.869055"
     }
   ],
-  "last_updated": "2026-09-05T18:02:30.788058"
+  "last_updated": "2026-09-05T21:03:15.869057"
 }
