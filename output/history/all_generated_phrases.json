@@ -20189,7 +20189,37 @@
       "russian": "Выбери спокойствие, скажи правду",
       "category": "Mindfulness",
       "generated_at": "2026-09-09T19:11:55.884723"
+    },
+    {
+      "english": "Act now, learn fast",
+      "russian": "Действуй сейчас, учись быстрее",
+      "category": "Success",
+      "generated_at": "2026-09-09T21:35:13.136914"
+    },
+    {
+      "english": "Speak boldly, correct gently",
+      "russian": "Говори смело, исправляй мягко",
+      "category": "Success",
+      "generated_at": "2026-09-09T21:35:13.136929"
+    },
+    {
+      "english": "Plan clear, practice daily",
+      "russian": "Планируй ясно, тренируйся ежедневно",
+      "category": "Success",
+      "generated_at": "2026-09-09T21:35:13.136930"
+    },
+    {
+      "english": "Write it down, remember",
+      "russian": "Запиши, закрепи в памяти",
+      "category": "Success",
+      "generated_at": "2026-09-09T21:35:13.136931"
+    },
+    {
+      "english": "Ask questions, open doors",
+      "russian": "Задавай вопросы, открывай двери",
+      "category": "Success",
+      "generated_at": "2026-09-09T21:35:13.136933"
     }
   ],
-  "last_updated": "2026-09-09T19:11:55.884725"
+  "last_updated": "2026-09-09T21:35:13.136934"
 }
