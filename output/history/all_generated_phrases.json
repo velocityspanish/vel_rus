@@ -20429,7 +20429,37 @@
       "russian": "Радость растёт, сила рядом",
       "category": "Happiness",
       "generated_at": "2026-09-11T05:40:34.711460"
+    },
+    {
+      "english": "Friendship heals, without fixing",
+      "russian": "Дружба лечит, не чиня",
+      "category": "Friendship",
+      "generated_at": "2026-09-11T16:57:39.767449"
+    },
+    {
+      "english": "Stay close, speak real",
+      "russian": "Будь рядом, говори честно",
+      "category": "Friendship",
+      "generated_at": "2026-09-11T16:57:39.767462"
+    },
+    {
+      "english": "Laugh first, then listen",
+      "russian": "Смейся первым, слушай потом",
+      "category": "Friendship",
+      "generated_at": "2026-09-11T16:57:39.767463"
+    },
+    {
+      "english": "Share space, not perfection",
+      "russian": "Делись местом, не идеалом",
+      "category": "Friendship",
+      "generated_at": "2026-09-11T16:57:39.767465"
+    },
+    {
+      "english": "Hold hope, drop judgment",
+      "russian": "Держи надежду, отпусти осуждение",
+      "category": "Friendship",
+      "generated_at": "2026-09-11T16:57:39.767466"
     }
   ],
-  "last_updated": "2026-09-11T05:40:34.711461"
+  "last_updated": "2026-09-11T16:57:39.767468"
 }
