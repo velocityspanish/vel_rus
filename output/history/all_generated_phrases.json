@@ -20639,7 +20639,37 @@
       "russian": "Я держусь, мягко",
       "category": "Balance",
       "generated_at": "2026-09-12T18:15:21.643124"
+    },
+    {
+      "english": "Speak now, learn loudly",
+      "russian": "Говори сейчас, учись громко",
+      "category": "Motivation",
+      "generated_at": "2026-09-12T21:20:48.585822"
+    },
+    {
+      "english": "Swim through mistakes, not fear",
+      "russian": "Плыви через ошибки, не страх",
+      "category": "Motivation",
+      "generated_at": "2026-09-12T21:20:48.585832"
+    },
+    {
+      "english": "Mistakes map roads, not limits",
+      "russian": "Ошибки чертят путь, не границы",
+      "category": "Motivation",
+      "generated_at": "2026-09-12T21:20:48.585833"
+    },
+    {
+      "english": "Say it clumsy, then refine",
+      "russian": "Скажи коряво, потом отполируй",
+      "category": "Motivation",
+      "generated_at": "2026-09-12T21:20:48.585834"
+    },
+    {
+      "english": "Ask “why”, build faster",
+      "russian": "Спрашивай «почему», строи быстрее",
+      "category": "Motivation",
+      "generated_at": "2026-09-12T21:20:48.585836"
     }
   ],
-  "last_updated": "2026-09-12T18:15:21.643126"
+  "last_updated": "2026-09-12T21:20:48.585837"
 }
