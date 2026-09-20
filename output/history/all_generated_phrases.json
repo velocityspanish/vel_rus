@@ -21839,7 +21839,37 @@
       "russian": "Скажи нет, верни себе пространство",
       "category": "Strength",
       "generated_at": "2026-09-20T18:36:43.483123"
+    },
+    {
+      "english": "Say it wrong, then adjust",
+      "russian": "Скажи неправильно, потом поправь",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T21:21:38.353120"
+    },
+    {
+      "english": "Confidence sounds, even when shaky",
+      "russian": "Уверенность звучит, даже дрожа",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T21:21:38.353128"
+    },
+    {
+      "english": "Pause less, speak more boldly",
+      "russian": "Паузы меньше, говори смелее",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T21:21:38.353129"
+    },
+    {
+      "english": "Mistakes open doors, not walls",
+      "russian": "Ошибки открывают двери, не стены",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T21:21:38.353130"
+    },
+    {
+      "english": "Try the hard phrase today",
+      "russian": "Попробуй трудную фразу сегодня",
+      "category": "Confidence",
+      "generated_at": "2026-09-20T21:21:38.353132"
     }
   ],
-  "last_updated": "2026-09-20T18:36:43.483125"
+  "last_updated": "2026-09-20T21:21:38.353133"
 }
