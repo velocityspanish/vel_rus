@@ -21779,7 +21779,37 @@
       "russian": "Тишина учит меня, мягко",
       "category": "Happiness",
       "generated_at": "2026-09-20T05:48:26.094406"
+    },
+    {
+      "english": "Slow down, breathe, start speaking",
+      "russian": "Замри на миг, дыши, говори",
+      "category": "Balance",
+      "generated_at": "2026-09-20T16:43:58.853499"
+    },
+    {
+      "english": "Shoulders down, chin up, go",
+      "russian": "Плечи вниз, подбородок вверх, вперёд",
+      "category": "Balance",
+      "generated_at": "2026-09-20T16:43:58.853511"
+    },
+    {
+      "english": "Balance your breath, speak clearly",
+      "russian": "Держи дыхание ровно, говори чётко",
+      "category": "Balance",
+      "generated_at": "2026-09-20T16:43:58.853512"
+    },
+    {
+      "english": "Ground yourself, say it now",
+      "russian": "Укорени себя, скажи прямо сейчас",
+      "category": "Balance",
+      "generated_at": "2026-09-20T16:43:58.853513"
+    },
+    {
+      "english": "Feel the pause, then answer",
+      "russian": "Почувствуй паузу, затем отвечай",
+      "category": "Balance",
+      "generated_at": "2026-09-20T16:43:58.853514"
     }
   ],
-  "last_updated": "2026-09-20T05:48:26.094408"
+  "last_updated": "2026-09-20T16:43:58.853515"
 }
