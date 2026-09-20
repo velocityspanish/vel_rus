@@ -21809,7 +21809,37 @@
       "russian": "Почувствуй паузу, затем отвечай",
       "category": "Balance",
       "generated_at": "2026-09-20T16:43:58.853514"
+    },
+    {
+      "english": "Strength listens, then acts",
+      "russian": "Сила слушает, затем действует",
+      "category": "Strength",
+      "generated_at": "2026-09-20T18:36:43.483112"
+    },
+    {
+      "english": "Break the spell, move",
+      "russian": "Разбей чары, двигайся",
+      "category": "Strength",
+      "generated_at": "2026-09-20T18:36:43.483120"
+    },
+    {
+      "english": "Tension fuels your courage",
+      "russian": "Напряжение питает смелость",
+      "category": "Strength",
+      "generated_at": "2026-09-20T18:36:43.483121"
+    },
+    {
+      "english": "Choose discomfort, gain depth",
+      "russian": "Выбирай дискомфорт, растёшь внутри",
+      "category": "Strength",
+      "generated_at": "2026-09-20T18:36:43.483122"
+    },
+    {
+      "english": "Say no, reclaim space",
+      "russian": "Скажи нет, верни себе пространство",
+      "category": "Strength",
+      "generated_at": "2026-09-20T18:36:43.483123"
     }
   ],
-  "last_updated": "2026-09-20T16:43:58.853515"
+  "last_updated": "2026-09-20T18:36:43.483125"
 }
