@@ -22049,7 +22049,37 @@
       "russian": "Времена меняются, я расту",
       "category": "Growth",
       "generated_at": "2026-09-22T00:23:21.344264"
+    },
+    {
+      "english": "Speak first, learn fast",
+      "russian": "Говори сразу, учись быстро",
+      "category": "Success",
+      "generated_at": "2026-09-22T05:54:54.149611"
+    },
+    {
+      "english": "Make it today, not later",
+      "russian": "Сделай сегодня, не потом",
+      "category": "Success",
+      "generated_at": "2026-09-22T05:54:54.149619"
+    },
+    {
+      "english": "Say one line, repeat",
+      "russian": "Скажи одну фразу, повтори",
+      "category": "Success",
+      "generated_at": "2026-09-22T05:54:54.149620"
+    },
+    {
+      "english": "Confuse fear, keep talking",
+      "russian": "Пугай страх, говори дальше",
+      "category": "Success",
+      "generated_at": "2026-09-22T05:54:54.149621"
+    },
+    {
+      "english": "Turn errors into fuel",
+      "russian": "Ошибки превращай в топливо",
+      "category": "Success",
+      "generated_at": "2026-09-22T05:54:54.149622"
     }
   ],
-  "last_updated": "2026-09-22T00:23:21.344266"
+  "last_updated": "2026-09-22T05:54:54.149624"
 }
