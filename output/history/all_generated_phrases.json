@@ -23099,7 +23099,37 @@
       "russian": "Прерви тишину, выбери правду",
       "category": "Courage",
       "generated_at": "2026-09-29T01:21:50.118975"
+    },
+    {
+      "english": "Thank you, today I practiced.",
+      "russian": "Спасибо, сегодня я практиковал(а).",
+      "category": "Gratitude",
+      "generated_at": "2026-09-29T06:38:21.634866"
+    },
+    {
+      "english": "Grateful for tiny progress, again.",
+      "russian": "Благодарю за маленький прогресс, снова.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-29T06:38:21.634880"
+    },
+    {
+      "english": "I’m proud, I reviewed vocabulary.",
+      "russian": "Горжусь, я повторил(а) слова.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-29T06:38:21.634881"
+    },
+    {
+      "english": "Thank you, I speak more.",
+      "russian": "Спасибо, я говорю больше.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-29T06:38:21.634882"
+    },
+    {
+      "english": "Gratitude for brave, imperfect sentences.",
+      "russian": "Благодарность за смелые, несовершенные фразы.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-29T06:38:21.634883"
     }
   ],
-  "last_updated": "2026-09-29T01:21:50.118976"
+  "last_updated": "2026-09-29T06:38:21.634884"
 }
