@@ -23069,7 +23069,37 @@
       "russian": "Твой прогресс важен всегда",
       "category": "Perseverance",
       "generated_at": "2026-09-28T23:47:26.213258"
+    },
+    {
+      "english": "Courage speaks, despite trembling",
+      "russian": "Смелость говорит, даже дрожа",
+      "category": "Courage",
+      "generated_at": "2026-09-29T01:21:50.118959"
+    },
+    {
+      "english": "Fear can wait, move now",
+      "russian": "Страх подождёт, действуй сейчас",
+      "category": "Courage",
+      "generated_at": "2026-09-29T01:21:50.118972"
+    },
+    {
+      "english": "Say it first, then breathe",
+      "russian": "Скажи сначала, потом дыши",
+      "category": "Courage",
+      "generated_at": "2026-09-29T01:21:50.118973"
+    },
+    {
+      "english": "Your voice matters, use it",
+      "russian": "Твой голос важен, пользуйся",
+      "category": "Courage",
+      "generated_at": "2026-09-29T01:21:50.118974"
+    },
+    {
+      "english": "Break silence, choose truth",
+      "russian": "Прерви тишину, выбери правду",
+      "category": "Courage",
+      "generated_at": "2026-09-29T01:21:50.118975"
     }
   ],
-  "last_updated": "2026-09-28T23:47:26.213260"
+  "last_updated": "2026-09-29T01:21:50.118976"
 }
