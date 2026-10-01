@@ -23369,7 +23369,37 @@
       "russian": "Сегодня я выбираю ясность.",
       "category": "Confidence",
       "generated_at": "2026-09-30T22:54:33.271402"
+    },
+    {
+      "english": "Question limits, write experiments",
+      "russian": "Лимиты, под сомнение, эксперименты",
+      "category": "Creativity",
+      "generated_at": "2026-10-01T00:55:18.133888"
+    },
+    {
+      "english": "Rewrite rules, keep moving",
+      "russian": "Правила меняй, двигайся дальше",
+      "category": "Creativity",
+      "generated_at": "2026-10-01T00:55:18.133898"
+    },
+    {
+      "english": "Turn doubts into dialogue",
+      "russian": "Сомнения, в диалог, превращай",
+      "category": "Creativity",
+      "generated_at": "2026-10-01T00:55:18.133899"
+    },
+    {
+      "english": "Invent sentences, don’t hunt errors",
+      "russian": "Фразы изобретай, ошибки не ищи",
+      "category": "Creativity",
+      "generated_at": "2026-10-01T00:55:18.133900"
+    },
+    {
+      "english": "Choose risk, then speak",
+      "russian": "Риск выбери, потом говори",
+      "category": "Creativity",
+      "generated_at": "2026-10-01T00:55:18.133902"
     }
   ],
-  "last_updated": "2026-09-30T22:54:33.271404"
+  "last_updated": "2026-10-01T00:55:18.133903"
 }
