@@ -23909,7 +23909,37 @@
       "russian": "Крепкая тишина, затем ответь",
       "category": "Strength",
       "generated_at": "2026-10-04T17:21:01.558241"
+    },
+    {
+      "english": "Courage speaks, even when shaking",
+      "russian": "Смелость говорит, даже дрожа",
+      "category": "Courage",
+      "generated_at": "2026-10-04T19:22:53.853977"
+    },
+    {
+      "english": "Turn panic into clear questions",
+      "russian": "Панику превращаю в ясные вопросы",
+      "category": "Courage",
+      "generated_at": "2026-10-04T19:22:53.853986"
+    },
+    {
+      "english": "Choose the harder honest word",
+      "russian": "Выбираю честное слово, труднее",
+      "category": "Courage",
+      "generated_at": "2026-10-04T19:22:53.853987"
+    },
+    {
+      "english": "Let fear pass, then act",
+      "russian": "Пусть страх пройдет, действую",
+      "category": "Courage",
+      "generated_at": "2026-10-04T19:22:53.853988"
+    },
+    {
+      "english": "Make room for your tremble",
+      "russian": "Дай место твоей дрожи",
+      "category": "Courage",
+      "generated_at": "2026-10-04T19:22:53.853989"
     }
   ],
-  "last_updated": "2026-10-04T17:21:01.558244"
+  "last_updated": "2026-10-04T19:22:53.853990"
 }
