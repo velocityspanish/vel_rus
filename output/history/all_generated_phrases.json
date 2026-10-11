@@ -24959,7 +24959,37 @@
       "russian": "Повтори, даже тихо",
       "category": "Patience",
       "generated_at": "2026-10-11T17:56:33.560795"
+    },
+    {
+      "english": "New syllable, hopeful breath",
+      "russian": "Новый слог, надежный вдох",
+      "category": "Hope",
+      "generated_at": "2026-10-11T20:06:17.044219"
+    },
+    {
+      "english": "Practice now, hope grows",
+      "russian": "Тренируйся, надежда крепнет",
+      "category": "Hope",
+      "generated_at": "2026-10-11T20:06:17.044228"
+    },
+    {
+      "english": "Ten seconds, I try",
+      "russian": "Десять секунд, пробую",
+      "category": "Hope",
+      "generated_at": "2026-10-11T20:06:17.044229"
+    },
+    {
+      "english": "I speak, fear loosens",
+      "russian": "Я говорю, страх отпускает",
+      "category": "Hope",
+      "generated_at": "2026-10-11T20:06:17.044230"
+    },
+    {
+      "english": "Cross it, then continue",
+      "russian": "Сделал ошибку, и дальше",
+      "category": "Hope",
+      "generated_at": "2026-10-11T20:06:17.044232"
     }
   ],
-  "last_updated": "2026-10-11T17:56:33.560797"
+  "last_updated": "2026-10-11T20:06:17.044233"
 }
