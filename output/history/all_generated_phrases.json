@@ -25379,7 +25379,37 @@
       "russian": "Хватит гадать, задай один вопрос.",
       "category": "Wisdom",
       "generated_at": "2026-10-14T05:53:53.953343"
+    },
+    {
+      "english": "Invent ideas, test today",
+      "russian": "Придумай идеи, пробуй сегодня",
+      "category": "Creativity",
+      "generated_at": "2026-10-14T17:50:52.679593"
+    },
+    {
+      "english": "Try again, that’s progress",
+      "russian": "Попробуй снова, это рост",
+      "category": "Creativity",
+      "generated_at": "2026-10-14T17:50:52.679606"
+    },
+    {
+      "english": "Write one line, celebrate",
+      "russian": "Запиши одну строку, ликуй",
+      "category": "Creativity",
+      "generated_at": "2026-10-14T17:50:52.679607"
+    },
+    {
+      "english": "Say it, then refine",
+      "russian": "Скажи так, потом улучшай",
+      "category": "Creativity",
+      "generated_at": "2026-10-14T17:50:52.679608"
+    },
+    {
+      "english": "Answer softly, keep moving",
+      "russian": "Отвечай спокойно, двигайся дальше",
+      "category": "Creativity",
+      "generated_at": "2026-10-14T17:50:52.679609"
     }
   ],
-  "last_updated": "2026-10-14T05:53:53.953345"
+  "last_updated": "2026-10-14T17:50:52.679611"
 }
