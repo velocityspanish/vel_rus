@@ -25589,7 +25589,37 @@
       "russian": "Благодарно пауза, речь ясна.",
       "category": "Gratitude",
       "generated_at": "2026-10-15T19:47:25.945967"
+    },
+    {
+      "english": "Act now, speak boldly",
+      "russian": "Действуй сейчас, говори смело",
+      "category": "Success",
+      "generated_at": "2026-10-15T22:03:21.248247"
+    },
+    {
+      "english": "Make it clear, move on",
+      "russian": "Сделай яснее, дальше",
+      "category": "Success",
+      "generated_at": "2026-10-15T22:03:21.248256"
+    },
+    {
+      "english": "Confuse less, learn more",
+      "russian": "Меньше путай, больше учись",
+      "category": "Success",
+      "generated_at": "2026-10-15T22:03:21.248257"
+    },
+    {
+      "english": "Say one phrase, restart",
+      "russian": "Скажи фразу, начни заново",
+      "category": "Success",
+      "generated_at": "2026-10-15T22:03:21.248258"
+    },
+    {
+      "english": "Spot mistakes, fix fast",
+      "russian": "Заметь ошибки, исправь быстро",
+      "category": "Success",
+      "generated_at": "2026-10-15T22:03:21.248260"
     }
   ],
-  "last_updated": "2026-10-15T19:47:25.945969"
+  "last_updated": "2026-10-15T22:03:21.248261"
 }
