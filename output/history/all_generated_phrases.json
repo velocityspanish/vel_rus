@@ -25859,7 +25859,37 @@
       "russian": "Я слушаю внутри, отвечаю",
       "category": "Confidence",
       "generated_at": "2026-10-17T16:12:03.509414"
+    },
+    {
+      "english": "Speak up, move now",
+      "russian": "Говори смелее, действуй сейчас",
+      "category": "Courage",
+      "generated_at": "2026-10-17T18:19:44.979282"
+    },
+    {
+      "english": "Feel fear, still answer",
+      "russian": "Страх есть, отвечай всё равно",
+      "category": "Courage",
+      "generated_at": "2026-10-17T18:19:44.979294"
+    },
+    {
+      "english": "Start messy, keep going",
+      "russian": "Начни криво, продолжай упорно",
+      "category": "Courage",
+      "generated_at": "2026-10-17T18:19:44.979296"
+    },
+    {
+      "english": "Choose courage, not comfort",
+      "russian": "Выбирай смелость, а не комфорт",
+      "category": "Courage",
+      "generated_at": "2026-10-17T18:19:44.979297"
+    },
+    {
+      "english": "Test your voice, today",
+      "russian": "Проверь свой голос, сегодня",
+      "category": "Courage",
+      "generated_at": "2026-10-17T18:19:44.979298"
     }
   ],
-  "last_updated": "2026-10-17T16:12:03.509415"
+  "last_updated": "2026-10-17T18:19:44.979301"
 }
