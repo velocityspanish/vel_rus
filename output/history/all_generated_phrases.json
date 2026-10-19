@@ -26189,7 +26189,37 @@
       "russian": "Освободи место, для отдыха",
       "category": "Strength",
       "generated_at": "2026-10-19T20:56:52.410695"
+    },
+    {
+      "english": "Breathe in, stay with it.",
+      "russian": "Вдохни, задержись с делом.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T22:51:01.148778"
+    },
+    {
+      "english": "Miss a bit, return gently.",
+      "russian": "Упустил, вернись мягко.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T22:51:01.148787"
+    },
+    {
+      "english": "When you fall, stand quieter.",
+      "russian": "Упала, поднимись тише.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T22:51:01.148789"
+    },
+    {
+      "english": "Rewrite the sentence, again.",
+      "russian": "Перепиши фразу, ещё раз.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T22:51:01.148790"
+    },
+    {
+      "english": "Practice daily, even five minutes.",
+      "russian": "Тренируйся каждый день, пять минут.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-19T22:51:01.148791"
     }
   ],
-  "last_updated": "2026-10-19T20:56:52.410697"
+  "last_updated": "2026-10-19T22:51:01.148793"
 }
