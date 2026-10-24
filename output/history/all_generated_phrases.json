@@ -26849,7 +26849,37 @@
       "russian": "Внимание возвращается, я учусь дальше",
       "category": "Balance",
       "generated_at": "2026-10-24T00:07:55.858883"
+    },
+    {
+      "english": "Pause, plan, then proceed",
+      "russian": "Пауза, план, затем вперед",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:27:34.838484"
+    },
+    {
+      "english": "Breathe now, act later",
+      "russian": "Дыши сейчас, действуй потом",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:27:34.838498"
+    },
+    {
+      "english": "Calm mind, steady hands",
+      "russian": "Спокойная голова, твердые руки",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:27:34.838501"
+    },
+    {
+      "english": "Wait, but keep working",
+      "russian": "Жди, но работай дальше",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:27:34.838502"
+    },
+    {
+      "english": "Let timing guide you",
+      "russian": "Пусть время ведет тебя",
+      "category": "Patience",
+      "generated_at": "2026-10-24T05:27:34.838503"
     }
   ],
-  "last_updated": "2026-10-24T00:07:55.858884"
+  "last_updated": "2026-10-24T05:27:34.838505"
 }
