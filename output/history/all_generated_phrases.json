@@ -27269,7 +27269,37 @@
       "russian": "Спроси снова, соберись вниманием",
       "category": "Confidence",
       "generated_at": "2026-10-27T00:52:09.244260"
+    },
+    {
+      "english": "Speak gently, let kindness linger",
+      "russian": "Говорите нежно, пусть доброта останется",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T09:23:49.689510"
+    },
+    {
+      "english": "Hold doors, hold hearts too",
+      "russian": "Открывайте двери, открывайте сердца",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T09:23:49.689522"
+    },
+    {
+      "english": "Give credit, soften the edge",
+      "russian": "Отдайте должное, смягчите край",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T09:23:49.689524"
+    },
+    {
+      "english": "Smile first, as a prayer",
+      "russian": "Улыбнитесь сначала, как молитва",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T09:23:49.689525"
+    },
+    {
+      "english": "Share silence, not judgment",
+      "russian": "Разделите тишину, не осуждение",
+      "category": "Kindness",
+      "generated_at": "2026-10-27T09:23:49.689526"
     }
   ],
-  "last_updated": "2026-10-27T00:52:09.244262"
+  "last_updated": "2026-10-27T09:23:49.689528"
 }
