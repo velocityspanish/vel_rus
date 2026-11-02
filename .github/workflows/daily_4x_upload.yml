@@ -3,10 +3,10 @@ name: Velocity Russian - Daily 5x Upload
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '45 3 * * *'   # 6:45 AM Moscow
-    - cron: '0 9 * * *'    # 12:00 PM Moscow
-    - cron: '30 13 * * *'  # 4:30 PM Moscow
-    - cron: '0 18 * * *'   # 9:00 PM Moscow
+    #- cron: '45 3 * * *'   # 6:45 AM Moscow
+    #- cron: '0 9 * * *'    # 12:00 PM Moscow
+    #- cron: '30 13 * * *'  # 4:30 PM Moscow
+    #- cron: '0 18 * * *'   # 9:00 PM Moscow
     - cron: '45 21 * * *'  # 12:45 AM Moscow / Americas Evening
 
   # Allow manual trigger for testing
