@@ -28544,7 +28544,42 @@
       "transliteration": "Zamet' zvuk, i ne sudi.",
       "category": "Mindfulness",
       "generated_at": "2026-11-10T20:40:57.456766"
+    },
+    {
+      "english": "You can do it, even slowly.",
+      "russian": "Ты сможешь, даже медленно.",
+      "transliteration": "Ty smozhesh', dazhe medlenno.",
+      "category": "Success",
+      "generated_at": "2026-11-10T22:03:38.515403"
+    },
+    {
+      "english": "Try again, and be proud.",
+      "russian": "Попробуй снова, и гордись собой.",
+      "transliteration": "Poprobuy snova, i gordis' soboy.",
+      "category": "Success",
+      "generated_at": "2026-11-10T22:03:38.515421"
+    },
+    {
+      "english": "Keep going, you’re getting better.",
+      "russian": "Продолжай, ты становишься лучше.",
+      "transliteration": "Prodolzhay, ty stanovish'sya luchshe.",
+      "category": "Success",
+      "generated_at": "2026-11-10T22:03:38.515424"
+    },
+    {
+      "english": "Small steps count, every day.",
+      "russian": "Маленькие шаги считаются, каждый день.",
+      "transliteration": "Malen'kiye shagi schitayutsya, kazhdyy den'.",
+      "category": "Success",
+      "generated_at": "2026-11-10T22:03:38.515425"
+    },
+    {
+      "english": "Speak calmly, and you’ll improve.",
+      "russian": "Говори спокойно, и ты улучшишься.",
+      "transliteration": "Govori spokojno, i ty uluchshish'sya.",
+      "category": "Success",
+      "generated_at": "2026-11-10T22:03:38.515427"
     }
   ],
-  "last_updated": "2026-11-10T20:40:57.456771"
+  "last_updated": "2026-11-10T22:03:38.515429"
 }
