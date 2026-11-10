@@ -28509,7 +28509,42 @@
       "transliteration": "Ya zhdu spokoyno, potom deystvuyu uverenno.",
       "category": "Patience",
       "generated_at": "2026-11-10T19:01:19.461692"
+    },
+    {
+      "english": "Breathe in, отпусти всё лишнее.",
+      "russian": "Вдохни, отпусти всё лишнее.",
+      "transliteration": "Vdokhni, otpusti vsyo lishnee.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T20:40:57.456749"
+    },
+    {
+      "english": "Exhale slowly, отпусти напряжение.",
+      "russian": "Медленно выдохни, отпусти напряжение.",
+      "transliteration": "Medlenno vykhdokhni, otpusti napryazhenie.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T20:40:57.456761"
+    },
+    {
+      "english": "Feel your hands, отпусти контроль.",
+      "russian": "Почувствуй руки, отпусти контроль.",
+      "transliteration": "Pochuvstvuy ruki, otpusti kontrol.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T20:40:57.456763"
+    },
+    {
+      "english": "Let your shoulders drop, without hurry.",
+      "russian": "Пусть плечи опустятся, без спешки.",
+      "transliteration": "Pust plechi opustyatsya, bez speshki.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T20:40:57.456765"
+    },
+    {
+      "english": "Notice sound, и не суди.",
+      "russian": "Заметь звук, и не суди.",
+      "transliteration": "Zamet' zvuk, i ne sudi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T20:40:57.456766"
     }
   ],
-  "last_updated": "2026-11-10T19:01:19.461693"
+  "last_updated": "2026-11-10T20:40:57.456771"
 }
