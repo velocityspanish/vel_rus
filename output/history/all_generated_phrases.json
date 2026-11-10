@@ -28409,7 +28409,37 @@
       "russian": "Ошибки пройдут, иди дальше.",
       "category": "Confidence",
       "generated_at": "2026-11-09T01:14:32.932854"
+    },
+    {
+      "english": "Unclench your fist, release hurt.",
+      "russian": "Разожми кулак, отпусти боль.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T03:58:31.967495"
+    },
+    {
+      "english": "Rinse the words, keep peace.",
+      "russian": "Смой слова, береги мир.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T03:58:31.967519"
+    },
+    {
+      "english": "Cut the knot, free the heart.",
+      "russian": "Развяжи узел, освободи сердце.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T03:58:31.967521"
+    },
+    {
+      "english": "Like rain, let it fall.",
+      "russian": "Как дождь, пусть всё уйдёт.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T03:58:31.967523"
+    },
+    {
+      "english": "Close the old door, forgive.",
+      "russian": "Закрой старую дверь, прости.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T03:58:31.967524"
     }
   ],
-  "last_updated": "2026-11-09T01:14:32.932855"
+  "last_updated": "2026-11-10T03:58:31.967526"
 }
