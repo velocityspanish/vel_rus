@@ -28964,7 +28964,42 @@
       "transliteration": "Ya zamechayu khoroshee, pryam seychas.",
       "category": "Happiness",
       "generated_at": "2026-11-13T00:59:09.687084"
+    },
+    {
+      "english": "Say пожалуйста, even when you're busy.",
+      "russian": "Скажи пожалуйста, даже когда занят.",
+      "transliteration": "Skazhi pozhaluysta, dazhe kogda zanyat.",
+      "category": "Kindness",
+      "generated_at": "2026-11-13T05:42:28.876076"
+    },
+    {
+      "english": "Thank them, and mean it sincerely.",
+      "russian": "Поблагодари их искренне, от души.",
+      "transliteration": "Poblagodari ikh iskrenne, ot dushi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-13T05:42:28.876089"
+    },
+    {
+      "english": "Let someone go first, no rush.",
+      "russian": "Пропусти их вперёд, без спешки.",
+      "transliteration": "Propusti ikh vperyod, bez speshki.",
+      "category": "Kindness",
+      "generated_at": "2026-11-13T05:42:28.876094"
+    },
+    {
+      "english": "Ask, then listen, without interrupting.",
+      "russian": "Спроси, а потом слушай, не перебивая.",
+      "transliteration": "Sprasi, a potom slushay, ne perebivaya.",
+      "category": "Kindness",
+      "generated_at": "2026-11-13T05:42:28.876095"
+    },
+    {
+      "english": "If they stumble, offer a hand.",
+      "russian": "Если споткнулись, протяни руку.",
+      "transliteration": "Esli spotknulis, protyani ruku.",
+      "category": "Kindness",
+      "generated_at": "2026-11-13T05:42:28.876097"
     }
   ],
-  "last_updated": "2026-11-13T00:59:09.687085"
+  "last_updated": "2026-11-13T05:42:28.876099"
 }
