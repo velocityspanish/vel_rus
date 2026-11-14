@@ -29034,7 +29034,42 @@
       "transliteration": "Zamedlis, ty spravishsya.",
       "category": "Strength",
       "generated_at": "2026-11-13T20:43:41.254188"
+    },
+    {
+      "english": "I can do this, step by step.",
+      "russian": "Я могу это, шаг за шагом.",
+      "transliteration": "Ya mogu eto, shag za shagom.",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T18:55:33.067291"
+    },
+    {
+      "english": "Today I speak, even if unsure.",
+      "russian": "Сегодня я говорю, даже если сомневаюсь.",
+      "transliteration": "Segodnya ya govoryu, dazhe yesli somnevayus.",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T18:55:33.067305"
+    },
+    {
+      "english": "I’ll try again, with a smile.",
+      "russian": "Я попробую снова, с улыбкой.",
+      "transliteration": "Ya poprobuyu snova, s ulybko y.",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T18:55:33.067307"
+    },
+    {
+      "english": "My accent is fine, I keep talking.",
+      "russian": "Мой акцент нормальный, я продолжаю говорить.",
+      "transliteration": "Moy aktsent normalnyy, ya prodolzhayu govorit.",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T18:55:33.067308"
+    },
+    {
+      "english": "I take my time, and answer.",
+      "russian": "Я беру паузу, и отвечаю.",
+      "transliteration": "Ya beru pauzu, i otvechayu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T18:55:33.067310"
     }
   ],
-  "last_updated": "2026-11-13T20:43:41.254190"
+  "last_updated": "2026-11-14T18:55:33.067312"
 }
