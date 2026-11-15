@@ -29069,7 +29069,42 @@
       "transliteration": "Ya beru pauzu, i otvechayu.",
       "category": "Confidence",
       "generated_at": "2026-11-14T18:55:33.067310"
+    },
+    {
+      "english": "Small steps count, I continue",
+      "russian": "Маленькие шаги важны, я продолжаю",
+      "transliteration": "Malenkie shagi vazhny, ya prodolzhayu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T19:31:16.165674"
+    },
+    {
+      "english": "I fall behind, still I return",
+      "russian": "Я отстаю, но всё равно возвращаюсь",
+      "transliteration": "Ya ostayu, no vsyo ravno vozvrashchayus'",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T19:31:16.165690"
+    },
+    {
+      "english": "Keep going, even if it’s slow",
+      "russian": "Иди дальше, даже если медленно",
+      "transliteration": "Idi dalshe, dazhe yesli medlenno",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T19:31:16.165692"
+    },
+    {
+      "english": "Today feels hard, I don’t quit",
+      "russian": "Сегодня тяжело, я не сдаюсь",
+      "transliteration": "Segodnya tyazhelo, ya ne sdavayus'",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T19:31:16.165694"
+    },
+    {
+      "english": "I try again, with calmer hands",
+      "russian": "Я пробую снова, спокойнее держу руки",
+      "transliteration": "Ya probuyu snova, spokoynee derzhu ruki",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T19:31:16.165695"
     }
   ],
-  "last_updated": "2026-11-14T18:55:33.067312"
+  "last_updated": "2026-11-15T19:31:16.165697"
 }
