@@ -29104,7 +29104,42 @@
       "transliteration": "Ya probuyu snova, spokoynee derzhu ruki",
       "category": "Perseverance",
       "generated_at": "2026-11-15T19:31:16.165695"
+    },
+    {
+      "english": "Inhale, then speak with care.",
+      "russian": "Вдохни, затем говори бережно.",
+      "transliteration": "Vdohnì, zatem govori berezhno.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:08:21.409030"
+    },
+    {
+      "english": "I start small, stay consistent.",
+      "russian": "Я начинаю с малого, и держусь.",
+      "transliteration": "Ya nachinayu s malogo, i derzhus.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:08:21.409043"
+    },
+    {
+      "english": "I learn one phrase, repeat.",
+      "russian": "Я выучиваю одну фразу, повторяю.",
+      "transliteration": "Ya vouchivayu odnu frazu, povtoryayu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:08:21.409045"
+    },
+    {
+      "english": "When I pause, I choose words.",
+      "russian": "Когда молчу, я выбираю слова.",
+      "transliteration": "Kogda molchu, ya vybivayu slova.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:08:21.409046"
+    },
+    {
+      "english": "I speak clearly, without rushing.",
+      "russian": "Я говорю четко, не спеша.",
+      "transliteration": "Ya govoryu chetko, ne spesha.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:08:21.409047"
     }
   ],
-  "last_updated": "2026-11-15T19:31:16.165697"
+  "last_updated": "2026-11-16T23:08:21.409049"
 }
