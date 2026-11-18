@@ -29174,7 +29174,42 @@
       "transliteration": "Pust slova sovpadayut s delami.",
       "category": "Wisdom",
       "generated_at": "2026-11-17T21:58:42.736155"
+    },
+    {
+      "english": "Thank you for listening so carefully.",
+      "russian": "Спасибо, что ты так внимательно слушаешь.",
+      "transliteration": "Spasibo, chto ty tak vnimatel'no slushaesh'.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T22:06:20.052474"
+    },
+    {
+      "english": "I appreciate your clear explanation today.",
+      "russian": "Спасибо за ясное объяснение сегодня.",
+      "transliteration": "Spasibo za yasnoe obyasnenie segodnya.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T22:06:20.052491"
+    },
+    {
+      "english": "Thanks for the help, I needed it.",
+      "russian": "Спасибо за помощь, она мне очень нужна была.",
+      "transliteration": "Spasibo za pomoshch', ona mne ochen' nuzhna byla.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T22:06:20.052493"
+    },
+    {
+      "english": "I’m grateful for your steady support.",
+      "russian": "Я благодарен за твою стойкую поддержку.",
+      "transliteration": "Ya blagodaren za tvoyu stoykuyu podderzhku.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T22:06:20.052494"
+    },
+    {
+      "english": "Thank you, you made it easier.",
+      "russian": "Спасибо, ты сделал(а) это проще.",
+      "transliteration": "Spasibo, ty sdelal(a) eto proshche.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-18T22:06:20.052495"
     }
   ],
-  "last_updated": "2026-11-17T21:58:42.736157"
+  "last_updated": "2026-11-18T22:06:20.052497"
 }
