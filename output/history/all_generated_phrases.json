@@ -29510,7 +29510,28 @@
       "transliteration": "Otluchno, ty ne sdavalsya",
       "category": "Success",
       "generated_at": "2026-11-27T11:50:12.525777"
+    },
+    {
+      "english": "I won’t quit, I’ll adjust.",
+      "russian": "Я не сдамся, я подстроюсь.",
+      "transliteration": "Ya ne sdamsya, ya podstroius.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T19:21:55.381188"
+    },
+    {
+      "english": "Even if it’s messy, I continue.",
+      "russian": "Даже если криво, я продолжаю.",
+      "transliteration": "Dazhe yesli krivo, ya prodolzhayu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T19:21:55.381199"
+    },
+    {
+      "english": "Today, I’ll do it imperfectly.",
+      "russian": "Сегодня я сделаю это неидеально.",
+      "transliteration": "Segodnya ya sdelayu eto neideal'no.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T19:21:55.381201"
     }
   ],
-  "last_updated": "2026-11-27T11:50:12.525780"
+  "last_updated": "2026-11-27T19:21:55.381204"
 }
