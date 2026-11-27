@@ -29489,7 +29489,28 @@
       "transliteration": "Mysli ne vedut menya.",
       "category": "Inner Peace",
       "generated_at": "2026-11-26T22:42:42.425612"
+    },
+    {
+      "english": "You showed up, and that matters.",
+      "russian": "Ты пришёл, и это важно.",
+      "transliteration": "Ty prishel, i eto vazhno",
+      "category": "Success",
+      "generated_at": "2026-11-27T11:50:12.525762"
+    },
+    {
+      "english": "Slowly, you make real progress.",
+      "russian": "Потихоньку, ты делаешь реальный прогресс.",
+      "transliteration": "Potihonkυ, ty delayesh realny progress",
+      "category": "Success",
+      "generated_at": "2026-11-27T11:50:12.525775"
+    },
+    {
+      "english": "Great job, you kept going.",
+      "russian": "Отлично, ты не сдавался.",
+      "transliteration": "Otluchno, ty ne sdavalsya",
+      "category": "Success",
+      "generated_at": "2026-11-27T11:50:12.525777"
     }
   ],
-  "last_updated": "2026-11-26T22:42:42.425614"
+  "last_updated": "2026-11-27T11:50:12.525780"
 }
